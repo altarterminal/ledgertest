@@ -1,0 +1,5 @@
+[
+  {"name": "localhost1", "ip": "127.0.0.1", "port": "50001"},
+  {"name": "localhost2", "ip": "127.0.0.1", "port": "50002"},
+  {"name": "localhost3", "ip": "127.0.0.1", "port": "50003"}
+]
