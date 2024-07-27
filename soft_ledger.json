@@ -5,9 +5,9 @@
     "opt": "--version",
     "ver": "Vi IMproved 8.2",
     "hosts": [
-      "localhost0",
       "localhost1",
-      "localhost2"
+      "localhost2",
+      "localhost3"
     ]
   },
 
@@ -17,7 +17,7 @@
     "opt": "--version",
     "ver": "Docker version 20.10.24",
     "hosts": [
-      "localhost2"
+      "localhost3"
     ]
   }
 ]
