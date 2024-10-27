@@ -1,0 +1,14 @@
+[
+  {
+    "name":"admin",
+    "group": ["group1"]
+  },
+  {
+    "name": "section",
+    "group": ["group2"]
+  },
+  {
+    "name": "outsider",
+    "group": ["group1","group3"]
+  }
+]
