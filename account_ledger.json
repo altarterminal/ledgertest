@@ -1,5 +1,5 @@
 [
-  {"name": "user1", "uid": "1001", "type": "admin" },
-  {"name": "user2", "uid": "1002", "type": "section" },
-  {"name": "user3", "uid": "1003", "type": "outsider"}
+  {"name": "user1", "id": "1001", "type": "admin"   },
+  {"name": "user2", "id": "1002", "type": "section" },
+  {"name": "user3", "id": "1003", "type": "outsider"}
 ]

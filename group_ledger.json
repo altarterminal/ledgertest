@@ -1,5 +1,5 @@
 [
-  {"name": "group1", "gid": "3001"},
-  {"name": "group2", "gid": "3002"},
-  {"name": "group3", "gid": "3004"}
+  {"name": "group1", "id": "3001"},
+  {"name": "group2", "id": "3002"},
+  {"name": "group3", "id": "3004"}
 ]
